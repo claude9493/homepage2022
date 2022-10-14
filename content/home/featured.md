@@ -35,3 +35,7 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+{{% callout note %}}
+This work is just submitted.
+{{% /callout %}}
