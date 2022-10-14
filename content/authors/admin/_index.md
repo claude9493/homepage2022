@@ -1,8 +1,9 @@
 ---
-title: Alice Bighetti 吳恩達
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Yun Zhang
+role: Ph.D. Student
+avatar_filename: yun-zhang-at-hkust-gz-office-2021.jpg
+bio: Yun is currently a PhD student in Data Science and Analytics in The Hong
+  Kong University of Science and Technology (Guangzhou).
 interests:
   - Artificial Intelligence
   - Computational Linguistics
