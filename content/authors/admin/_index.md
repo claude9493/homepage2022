@@ -5,9 +5,9 @@ avatar_filename: yun-zhang-at-hkust-gz-office-2021.jpg
 bio: Yun is currently a PhD student in Data Science and Analytics in The Hong
   Kong University of Science and Technology (Guangzhou).
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Graph Neural Network
+  - Recommendation System
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
