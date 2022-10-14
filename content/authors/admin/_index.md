@@ -25,16 +25,20 @@ interests:
   - Graph Neural Network
   - Recommendation System
   - Machine Learning
+  - Web3.0
 
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Data Science and Analytics
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      year: 2021-present
     - course: Master of Statistics
       institution: The University of Hong Kong
-      year: 2021
+      year: 2020-2021
     - course: BSc in Statistics
       institution: Southern University of Science and Technology
-      year: 2020
+      year: 2006-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
